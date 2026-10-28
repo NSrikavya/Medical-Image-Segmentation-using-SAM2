@@ -117,6 +117,3 @@ Each figure in `segmentation/` shows, left to right: the input image, ground tru
 - [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/sam2), Meta AI (FAIR), licensed under Apache 2.0
 - Dataset: add the dataset name, source and license here
 
-## License
-
-The SAM 2 code in `sam2/` is licensed under Apache 2.0 (see `sam2/LICENSE`). Add a license for the project's own scripts here.
